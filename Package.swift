@@ -3,7 +3,7 @@
 
 import PackageDescription
 
-let baseURL = "https://github.com/jbuhler-c4/Linphone-iOS/releases/download/5.1.63.9"
+let baseURL = "https://github.com/jbuhler-c4/Linphone-iOS/releases/download/5.1.67"
 
 let package = Package(
     name: "Linphone-iOS",
